@@ -1,0 +1,35 @@
+[
+  {
+    "route":"/SecSign/request",
+    "method":"get",
+    "params":{
+        "controller":"SecSign",
+        "action":"request"
+    },
+    "conditions":{
+        "auth":false
+    }
+  },
+  {
+    "route":"/SecSign/validate",
+    "method":"post",
+    "params":{
+        "controller":"SecSign",
+        "action":"validate"
+    },
+    "conditions":{
+        "auth":false
+    }
+  },
+  {
+    "route":"/SecSign/use",
+    "method":"get",
+    "params":{
+        "controller":"SecSign",
+        "action":"use"
+    },
+    "conditions":{
+        "auth":false
+    }
+  }
+]

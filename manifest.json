@@ -1,0 +1,11 @@
+{
+    "name": "SecSignAuth",
+    "version": "1.0.3",
+    "acceptableVersions": [
+    ">=5.0.0"
+    ],
+    "releaseDate": "2018-03-18",
+    "author": "Joachim Meyer",
+    "description": "Adds 2F-Authentication to Espo using SecSign",
+    "delete": []
+}

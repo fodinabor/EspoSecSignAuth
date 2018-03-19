@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "secSignRequestId": {
+            "type": "varchar",
+            "required": false,
+            "trim": true,
+            "readOnly": true,
+            "audited": false,
+            "tooltip": false,
+            "isCustom": true
+        },
+        "secSignRequestTime": {
+            "notNull": false,
+            "type": "datetime",
+            "required": false,
+            "readOnly": true,
+            "audited": false,
+            "tooltip": false,
+            "isCustom": true
+        }
+    }
+}

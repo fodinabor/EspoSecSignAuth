@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "authenticationMethod": {
+            "type": "enum",
+            "options": ["Espo", "LDAP", "SecSignAuth"],
+            "default": "Espo"
+        }
+    }
+}

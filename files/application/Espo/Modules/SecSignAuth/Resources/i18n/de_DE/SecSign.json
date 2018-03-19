@@ -1,0 +1,13 @@
+{
+    "labels": {
+        "secSignID": "SecSignID",
+        "SecSign Confirmation": "SecSign Bestätigung",
+        "check": "Überprüfen"
+    },
+    "messages": {
+        "denied": "SecSign Anfrage abgelehnt",
+        "pending": "SecSign Bestätigung ausstehend",
+        "unknown": "Unbekannter Fehler",
+        "timeout": "SecSign Sitzung abgelaufen"
+    }
+}
