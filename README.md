@@ -11,9 +11,9 @@ The users will have to download the SecSign app for their device and create an I
 The login then works as follows:
 - enter your usual credentials
 - press login
-- get a challenge
+- get a challenge  
 ![](https://i.imgur.com/W6PvXr9.png)
-- approve the challenge on your phone
+- approve the challenge on your phone  
 ![](https://i.imgur.com/IE7EG9i.png)
 - press check in espo
 - voila.
